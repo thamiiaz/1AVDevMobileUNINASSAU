@@ -1,0 +1,9 @@
+Informações sobre as atividades Desenvolvimento Mobile
+
+Aluna: Thamires Azevedo
+Matricula: 01258242
+Linguagem utilizada: Dart/Flutter
+
+observação: já explicado ao professor o motivo pelo qual utilizei a linguagem acima citada.
+
+Espero que goste, e qualquer duvida estou a disposição, segue em anexo videos da utilização dos dois aplicativos, caso não consiga executar  em sua máquina.
